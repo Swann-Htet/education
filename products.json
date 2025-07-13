@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Shirt",
+            "price": "200",
+            "qty": "35",
+            "image": "shirt.png"
+        },
+        {
+            "id": "2",
+            "name": "Jeans",
+            "price": "250",
+            "qty": "25",
+            "image": "jeans.png"
+        },
+        {
+            "id": "3",
+            "name": "Skirt",
+            "price": "150",
+            "qty": "65",
+            "image": "skirt.png"
+        },
+        {
+            "id": "4",
+            "name": "Shoes",
+            "price": "550",
+            "qty": "37",
+            "image": "shoes.png"
+        }
+    ]
+}
