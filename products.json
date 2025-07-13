@@ -23,13 +23,20 @@
         },
         {
             "id": "4",
+            "name": "Jacket",
+            "price": "900",
+            "qty": "20",
+            "image": "jacket.png"
+        },
+        {
+            "id": "5",
             "name": "Nike",
             "price": "550",
             "qty": "37",
             "image": "shoes.png"
         },
         {
-            "id": "5",
+            "id": "6",
             "name": "Necklace",
             "price": "1200",
             "qty": "2",
