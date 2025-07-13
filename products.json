@@ -27,6 +27,13 @@
             "price": "550",
             "qty": "37",
             "image": "shoes.png"
+        },
+        {
+            "id": "5",
+            "name": "Necklace",
+            "price": "1200",
+            "qty": "2",
+            "image": "necklace.png"
         }
     ]
 }
