@@ -2,7 +2,7 @@
     "products": [
         {
             "id": "1",
-            "name": "Shirt",
+            "name": "Adidas",
             "price": "200",
             "qty": "35",
             "image": "shirt.png"
@@ -23,7 +23,7 @@
         },
         {
             "id": "4",
-            "name": "Shoes",
+            "name": "Nike",
             "price": "550",
             "qty": "37",
             "image": "shoes.png"

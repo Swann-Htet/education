@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "server": "json-server --watch products.json --port 9001"
+    "server": "json-server --watch products.json --port 9000"
   },
   "dependencies": {
     "bootstrap": "^5.3.7",

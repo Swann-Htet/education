@@ -21,7 +21,7 @@
 
         async function loadProduct() {
             try {
-                const response = await fetch('http://localhost:9001/products');
+                const response = await fetch('http://localhost:9000/products');
 
                 if (!response.ok) {
                     throw Error('Bad response');
