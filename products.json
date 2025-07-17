@@ -1,46 +1,46 @@
 {
-    "products": [
-        {
-            "id": "1",
-            "name": "Adidas",
-            "price": "200",
-            "qty": "35",
-            "image": "shirt.png"
-        },
-        {
-            "id": "2",
-            "name": "Jeans",
-            "price": "250",
-            "qty": "25",
-            "image": "jeans.png"
-        },
-        {
-            "id": "3",
-            "name": "Skirt",
-            "price": "150",
-            "qty": "65",
-            "image": "skirt.png"
-        },
-        {
-            "id": "4",
-            "name": "Jacket",
-            "price": "900",
-            "qty": "20",
-            "image": "jacket.png"
-        },
-        {
-            "id": "5",
-            "name": "Nike",
-            "price": "550",
-            "qty": "37",
-            "image": "shoes.png"
-        },
-        {
-            "id": "6",
-            "name": "Necklace",
-            "price": "1200",
-            "qty": "2",
-            "image": "necklace.png"
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "name": "Adidas",
+      "price": "200",
+      "qty": "35",
+      "image": "shirt.png"
+    },
+    {
+      "id": "2",
+      "name": "Jeans",
+      "price": "250",
+      "qty": "25",
+      "image": "jeans.png"
+    },
+    {
+      "id": "4",
+      "name": "Jacket",
+      "price": "900",
+      "qty": "20",
+      "image": "jacket.png"
+    },
+    {
+      "id": "6",
+      "name": "Necklace",
+      "price": "1200",
+      "qty": "2",
+      "image": "necklace.png"
+    },
+    {
+      "name": "Laptop",
+      "price": "2300",
+      "qty": "5",
+      "image": "laptop.png",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Medicine",
+      "price": "40",
+      "qty": "100",
+      "image": "medicine.png"
+    }
+  ]
 }
